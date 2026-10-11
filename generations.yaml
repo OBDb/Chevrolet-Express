@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Express"
+
+generations:
+  - name: "Second Generation"
+    start_year: 2003
+    end_year: null
+    description: "The full-size van with V6 and V8 gasoline engines and the Duramax diesel."

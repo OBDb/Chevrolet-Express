@@ -1,0 +1,21 @@
+command_id: 7E0.7E8.2211A1
+test_cases:
+- expected_values:
+    EXPRESS_RUNTM: 0
+  response: 7E8056211A10000
+- expected_values:
+    EXPRESS_RUNTM: 168
+  response: |-
+    7E8056211A100A8
+    7E803414931
+- expected_values:
+    EXPRESS_RUNTM: 247
+  response: 7E8056211A100F7
+- expected_values:
+    EXPRESS_RUNTM: 295
+  response: |-
+    7E8056211A10127
+    7E80641010007E500
+- expected_values:
+    EXPRESS_RUNTM: 2999
+  response: 7E8056211A10BB7
